@@ -1,5 +1,5 @@
 # Python program to walk directories and copy files of interest to a common directory
-## [A valuable Website for File/Directory (Python)](https://realpython.com/working-with-files-in-python/#copying-moving-and-renaming-files-and-directories)
+## [A valuable Website for File/Directory (Python)...thanks Vuyisile Ndlovu ](https://realpython.com/working-with-files-in-python/#copying-moving-and-renaming-files-and-directories)
 
 ### Background: 
     Recently my wife purchased a download of embroidery files for her BabyLock embroidery machine.  The files were downloaded as several Zip files separated by alphabetic devisions (A-C.zip, D-G.zip, etc.)
